@@ -1,5 +1,9 @@
-1874. Minimize Product Sum of Two Arrays
-https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
+//1874. Minimize Product Sum of Two Arrays
+//https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
+  
+// Time:  O(n)
+// Space: O(1)
+// Best Approach - Counting Sort
 
 class Solution {
 public:
